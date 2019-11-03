@@ -5,8 +5,9 @@ namespace HelloWorld
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        {   
+            var code = new MyClass();
+            Console.WriteLine($"HelloWorld {code.ReturnMessage()}");
         }
     }
 }
