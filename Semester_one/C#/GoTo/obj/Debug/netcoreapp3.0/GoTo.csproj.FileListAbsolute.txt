@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/obj/Debug/netcoreapp3.0/GoTo.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/obj/Debug/netcoreapp3.0/GoTo.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/obj/Debug/netcoreapp3.0/GoTo.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/bin/Debug/netcoreapp3.0/GoTo
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/bin/Debug/netcoreapp3.0/GoTo.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/bin/Debug/netcoreapp3.0/GoTo.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/bin/Debug/netcoreapp3.0/GoTo.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/bin/Debug/netcoreapp3.0/GoTo.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/bin/Debug/netcoreapp3.0/GoTo.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/obj/Debug/netcoreapp3.0/GoTo.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/GoTo/obj/Debug/netcoreapp3.0/GoTo.pdb
