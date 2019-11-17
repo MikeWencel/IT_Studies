@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Diagonal Star/1.0.0": {
+        "runtime": {
+          "Diagonal Star.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diagonal Star/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

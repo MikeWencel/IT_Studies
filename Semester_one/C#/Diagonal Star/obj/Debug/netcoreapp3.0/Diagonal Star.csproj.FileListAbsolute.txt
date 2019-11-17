@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/bin/Debug/netcoreapp3.0/Diagonal Star
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/bin/Debug/netcoreapp3.0/Diagonal Star.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/bin/Debug/netcoreapp3.0/Diagonal Star.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/bin/Debug/netcoreapp3.0/Diagonal Star.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/bin/Debug/netcoreapp3.0/Diagonal Star.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/bin/Debug/netcoreapp3.0/Diagonal Star.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/obj/Debug/netcoreapp3.0/Diagonal Star.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/obj/Debug/netcoreapp3.0/Diagonal Star.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/obj/Debug/netcoreapp3.0/Diagonal Star.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/obj/Debug/netcoreapp3.0/Diagonal Star.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Diagonal Star/obj/Debug/netcoreapp3.0/Diagonal Star.pdb
