@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/obj/Debug/netcoreapp3.0/CreatingArrayWithUserInput.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/obj/Debug/netcoreapp3.0/CreatingArrayWithUserInput.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/obj/Debug/netcoreapp3.0/CreatingArrayWithUserInput.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/bin/Debug/netcoreapp3.0/CreatingArrayWithUserInput
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/bin/Debug/netcoreapp3.0/CreatingArrayWithUserInput.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/bin/Debug/netcoreapp3.0/CreatingArrayWithUserInput.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/bin/Debug/netcoreapp3.0/CreatingArrayWithUserInput.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/bin/Debug/netcoreapp3.0/CreatingArrayWithUserInput.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/bin/Debug/netcoreapp3.0/CreatingArrayWithUserInput.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/obj/Debug/netcoreapp3.0/CreatingArrayWithUserInput.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrayWithUserInput/obj/Debug/netcoreapp3.0/CreatingArrayWithUserInput.pdb
