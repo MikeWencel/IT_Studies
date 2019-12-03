@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "quiz_test_one_program/1.0.0": {
+        "runtime": {
+          "quiz_test_one_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quiz_test_one_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
