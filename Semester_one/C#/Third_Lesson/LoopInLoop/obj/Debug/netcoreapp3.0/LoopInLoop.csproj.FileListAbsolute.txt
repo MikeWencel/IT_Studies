@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/bin/Debug/netcoreapp3.0/LoopInLoop
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/bin/Debug/netcoreapp3.0/LoopInLoop.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/bin/Debug/netcoreapp3.0/LoopInLoop.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/bin/Debug/netcoreapp3.0/LoopInLoop.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/bin/Debug/netcoreapp3.0/LoopInLoop.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/bin/Debug/netcoreapp3.0/LoopInLoop.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/obj/Debug/netcoreapp3.0/LoopInLoop.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/obj/Debug/netcoreapp3.0/LoopInLoop.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/obj/Debug/netcoreapp3.0/LoopInLoop.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/obj/Debug/netcoreapp3.0/LoopInLoop.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/LoopInLoop/obj/Debug/netcoreapp3.0/LoopInLoop.pdb

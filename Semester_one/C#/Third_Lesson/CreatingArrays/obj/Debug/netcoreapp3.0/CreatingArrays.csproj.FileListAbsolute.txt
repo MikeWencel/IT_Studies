@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/obj/Debug/netcoreapp3.0/CreatingArrays.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/obj/Debug/netcoreapp3.0/CreatingArrays.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/obj/Debug/netcoreapp3.0/CreatingArrays.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/bin/Debug/netcoreapp3.0/CreatingArrays
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/bin/Debug/netcoreapp3.0/CreatingArrays.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/bin/Debug/netcoreapp3.0/CreatingArrays.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/bin/Debug/netcoreapp3.0/CreatingArrays.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/bin/Debug/netcoreapp3.0/CreatingArrays.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/bin/Debug/netcoreapp3.0/CreatingArrays.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/obj/Debug/netcoreapp3.0/CreatingArrays.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/CreatingArrays/obj/Debug/netcoreapp3.0/CreatingArrays.pdb

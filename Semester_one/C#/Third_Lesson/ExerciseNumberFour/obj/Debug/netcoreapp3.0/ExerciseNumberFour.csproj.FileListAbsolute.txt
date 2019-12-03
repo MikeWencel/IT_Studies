@@ -1,0 +1,3 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/ExerciseNumberFour/obj/Debug/netcoreapp3.0/ExerciseNumberFour.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/ExerciseNumberFour/obj/Debug/netcoreapp3.0/ExerciseNumberFour.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/ExerciseNumberFour/obj/Debug/netcoreapp3.0/ExerciseNumberFour.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/bin/Debug/netcoreapp3.0/MyFirstProgram
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/bin/Debug/netcoreapp3.0/MyFirstProgram.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/bin/Debug/netcoreapp3.0/MyFirstProgram.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/bin/Debug/netcoreapp3.0/MyFirstProgram.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/bin/Debug/netcoreapp3.0/MyFirstProgram.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/bin/Debug/netcoreapp3.0/MyFirstProgram.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/obj/Debug/netcoreapp3.0/MyFirstProgram.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/obj/Debug/netcoreapp3.0/MyFirstProgram.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/obj/Debug/netcoreapp3.0/MyFirstProgram.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/obj/Debug/netcoreapp3.0/MyFirstProgram.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/MyFirstProgram/obj/Debug/netcoreapp3.0/MyFirstProgram.pdb

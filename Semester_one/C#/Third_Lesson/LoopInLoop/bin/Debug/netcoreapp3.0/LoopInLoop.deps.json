@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LoopInLoop/1.0.0": {
+        "runtime": {
+          "LoopInLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopInLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
