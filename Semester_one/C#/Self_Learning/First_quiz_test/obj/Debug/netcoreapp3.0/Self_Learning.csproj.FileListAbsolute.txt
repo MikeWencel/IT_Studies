@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/bin/Debug/netcoreapp3.0/Self_Learning
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/bin/Debug/netcoreapp3.0/Self_Learning.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/bin/Debug/netcoreapp3.0/Self_Learning.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/bin/Debug/netcoreapp3.0/Self_Learning.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/bin/Debug/netcoreapp3.0/Self_Learning.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/bin/Debug/netcoreapp3.0/Self_Learning.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/obj/Debug/netcoreapp3.0/Self_Learning.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/obj/Debug/netcoreapp3.0/Self_Learning.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/obj/Debug/netcoreapp3.0/Self_Learning.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/obj/Debug/netcoreapp3.0/Self_Learning.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Self_Learning/First_quiz_test/obj/Debug/netcoreapp3.0/Self_Learning.pdb
