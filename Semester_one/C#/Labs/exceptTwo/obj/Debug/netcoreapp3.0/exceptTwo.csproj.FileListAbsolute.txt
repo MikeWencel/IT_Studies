@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/bin/Debug/netcoreapp3.0/exceptTwo
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/bin/Debug/netcoreapp3.0/exceptTwo.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/bin/Debug/netcoreapp3.0/exceptTwo.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/bin/Debug/netcoreapp3.0/exceptTwo.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/bin/Debug/netcoreapp3.0/exceptTwo.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/bin/Debug/netcoreapp3.0/exceptTwo.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/obj/Debug/netcoreapp3.0/exceptTwo.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/obj/Debug/netcoreapp3.0/exceptTwo.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/obj/Debug/netcoreapp3.0/exceptTwo.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/obj/Debug/netcoreapp3.0/exceptTwo.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/exceptTwo/obj/Debug/netcoreapp3.0/exceptTwo.pdb
