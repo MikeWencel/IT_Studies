@@ -1,0 +1,3 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/zadanieSuma/obj/Debug/netcoreapp3.0/zadanieSuma.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/zadanieSuma/obj/Debug/netcoreapp3.0/zadanieSuma.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/zadanieSuma/obj/Debug/netcoreapp3.0/zadanieSuma.AssemblyInfo.cs

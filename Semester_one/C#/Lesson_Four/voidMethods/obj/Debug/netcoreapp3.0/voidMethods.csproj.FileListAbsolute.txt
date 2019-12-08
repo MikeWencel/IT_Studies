@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/obj/Debug/netcoreapp3.0/voidMethods.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/obj/Debug/netcoreapp3.0/voidMethods.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/obj/Debug/netcoreapp3.0/voidMethods.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/bin/Debug/netcoreapp3.0/voidMethods
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/bin/Debug/netcoreapp3.0/voidMethods.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/bin/Debug/netcoreapp3.0/voidMethods.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/bin/Debug/netcoreapp3.0/voidMethods.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/bin/Debug/netcoreapp3.0/voidMethods.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/bin/Debug/netcoreapp3.0/voidMethods.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/obj/Debug/netcoreapp3.0/voidMethods.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/voidMethods/obj/Debug/netcoreapp3.0/voidMethods.pdb

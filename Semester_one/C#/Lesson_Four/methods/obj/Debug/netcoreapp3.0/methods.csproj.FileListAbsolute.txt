@@ -1,0 +1,11 @@
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/bin/Debug/netcoreapp3.0/methods
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/bin/Debug/netcoreapp3.0/methods.deps.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/bin/Debug/netcoreapp3.0/methods.runtimeconfig.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/bin/Debug/netcoreapp3.0/methods.runtimeconfig.dev.json
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/bin/Debug/netcoreapp3.0/methods.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/bin/Debug/netcoreapp3.0/methods.pdb
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/obj/Debug/netcoreapp3.0/methods.csprojAssemblyReference.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/obj/Debug/netcoreapp3.0/methods.AssemblyInfoInputs.cache
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/obj/Debug/netcoreapp3.0/methods.AssemblyInfo.cs
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/obj/Debug/netcoreapp3.0/methods.dll
+/home/mikewen/Dokumenty/IT_Studies/Semester_one/C#/Lesson_Four/methods/obj/Debug/netcoreapp3.0/methods.pdb
