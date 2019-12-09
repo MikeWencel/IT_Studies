@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/obj/Debug/netcoreapp3.1/Variables.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/bin/Debug/netcoreapp3.1/Variables
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Lecture/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
