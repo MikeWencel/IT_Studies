@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/bin/Debug/netcoreapp3.1/rekurencja
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/bin/Debug/netcoreapp3.1/rekurencja.deps.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/bin/Debug/netcoreapp3.1/rekurencja.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/bin/Debug/netcoreapp3.1/rekurencja.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/bin/Debug/netcoreapp3.1/rekurencja.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/bin/Debug/netcoreapp3.1/rekurencja.pdb
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/obj/Debug/netcoreapp3.1/rekurencja.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/obj/Debug/netcoreapp3.1/rekurencja.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/obj/Debug/netcoreapp3.1/rekurencja.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/obj/Debug/netcoreapp3.1/rekurencja.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/rekurencja/obj/Debug/netcoreapp3.1/rekurencja.pdb
