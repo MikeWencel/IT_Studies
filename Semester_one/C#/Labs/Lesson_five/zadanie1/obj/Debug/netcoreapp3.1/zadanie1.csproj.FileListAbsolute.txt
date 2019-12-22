@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/bin/Debug/netcoreapp3.1/zadanie1
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/bin/Debug/netcoreapp3.1/zadanie1.deps.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/bin/Debug/netcoreapp3.1/zadanie1.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/bin/Debug/netcoreapp3.1/zadanie1.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/bin/Debug/netcoreapp3.1/zadanie1.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/bin/Debug/netcoreapp3.1/zadanie1.pdb
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/obj/Debug/netcoreapp3.1/zadanie1.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/obj/Debug/netcoreapp3.1/zadanie1.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/obj/Debug/netcoreapp3.1/zadanie1.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/obj/Debug/netcoreapp3.1/zadanie1.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Labs/Lesson_five/zadanie1/obj/Debug/netcoreapp3.1/zadanie1.pdb
