@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/bin/Debug/netcoreapp3.1/AllAboutStrings
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/bin/Debug/netcoreapp3.1/AllAboutStrings.deps.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/bin/Debug/netcoreapp3.1/AllAboutStrings.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/bin/Debug/netcoreapp3.1/AllAboutStrings.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/bin/Debug/netcoreapp3.1/AllAboutStrings.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/bin/Debug/netcoreapp3.1/AllAboutStrings.pdb
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/obj/Debug/netcoreapp3.1/AllAboutStrings.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/obj/Debug/netcoreapp3.1/AllAboutStrings.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/obj/Debug/netcoreapp3.1/AllAboutStrings.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/obj/Debug/netcoreapp3.1/AllAboutStrings.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/AllAboutStrings/obj/Debug/netcoreapp3.1/AllAboutStrings.pdb
