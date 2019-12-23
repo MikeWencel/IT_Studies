@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/bin/Debug/netcoreapp3.1/conversions
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/bin/Debug/netcoreapp3.1/conversions.deps.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/bin/Debug/netcoreapp3.1/conversions.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/bin/Debug/netcoreapp3.1/conversions.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/bin/Debug/netcoreapp3.1/conversions.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/bin/Debug/netcoreapp3.1/conversions.pdb
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/obj/Debug/netcoreapp3.1/conversions.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/obj/Debug/netcoreapp3.1/conversions.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/obj/Debug/netcoreapp3.1/conversions.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/obj/Debug/netcoreapp3.1/conversions.dll
+/home/mikewencel/Documents/GitHub/IT_Studies/Semester_one/C#/Mastering/conversions/obj/Debug/netcoreapp3.1/conversions.pdb
