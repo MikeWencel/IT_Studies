@@ -1,5 +1,5 @@
 using System;
-class samochod{
+class Car{
     private string mark;
     private string model;
     private int doors;
@@ -62,7 +62,7 @@ class samochod{
 
    
 
-public samochod (){
+public Car (){
     model = "Unknown";
     mark = "Unknown";
     doors = 0;
@@ -73,7 +73,7 @@ public samochod (){
 
 }
 
-public samochod (string mark,string model,int doors, int capacity, double avgFuel){
+public Car (string mark,string model,int doors, int capacity, double avgFuel){
     this.model = model;
     this.mark = mark;
     this.doors = doors;
