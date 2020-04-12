@@ -23,8 +23,15 @@ namespace LabsOOP
             Garage g1 = new Garage();
                 g1.Adress = "ul. Garażowa 1";
                 g1.GarageCapacity = 1;
+
+            Garage g2 = new Garage("ul. Garażowa 2",2);    
+
+            g1.parkTheCar(firstCar);
+            g1.parkTheCar(secondCar);
+            g1.parkTheCar(thirdCar);
             
  
         }
     }
 }
+

@@ -8,6 +8,8 @@ class Garage {
 
     private Car[] cars;
 
+    private int num = 0;
+
     public String Adress {
         get {
             return adress;
@@ -38,17 +40,17 @@ class Garage {
         this.adress = adress;
         this.garageCapacity = garageCapacity;
         Car [] cars = new Car[garageCapacity];
+        int num = cars.Length;
+        
     }
 
     public void parkTheCar(Car cars){
-
-
-        if(garageCapacity < carAmount + 1){
-        Console.WriteLine("There is no space!!!");
+        num = num + 1;
+        if(num > garageCapacity){
+            Console.WriteLine("You can't park here!");
+            num = garageCapacity;
         }else {
-        // Trochę miesza mi się Java i szukam sposobu w jaki sposób porównać tablicę do zmienne ? 
-        // Szukam najprostszego rozwiązania, pierwsze co pomyślałem, żeby utworzyć pętle lub użyć metody,
-        // która sprawdzi mi długość tablicy i wrzuciu to jako integer, a później ten integer, porównam do inta 
+            Console.WriteLine("You can park here!!");
         }
     }
 
