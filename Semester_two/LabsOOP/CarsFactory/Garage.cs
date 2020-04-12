@@ -37,8 +37,7 @@ class Garage {
     public Garage (String adress,int garageCapacity){
         this.adress = adress;
         this.garageCapacity = garageCapacity;
-        this.cars = 
-        // Nie rozumiem za bardzo wywołanie konstruktora ma dodać pole samochody ?! 
+        Car [] cars = new Car[garageCapacity];
     }
 
     public void parkTheCar(Car cars){
@@ -47,7 +46,9 @@ class Garage {
         if(garageCapacity < carAmount + 1){
         Console.WriteLine("There is no space!!!");
         }else {
-            
+        // Trochę miesza mi się Java i szukam sposobu w jaki sposób porównać tablicę do zmienne ? 
+        // Szukam najprostszego rozwiązania, pierwsze co pomyślałem, żeby utworzyć pętle lub użyć metody,
+        // która sprawdzi mi długość tablicy i wrzuciu to jako integer, a później ten integer, porównam do inta 
         }
     }
 
