@@ -20,3 +20,14 @@
 /home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.AssemblyInfo.cs
 /home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.dll
 /home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.pdb
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.csprojAssemblyReference.cache
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.AssemblyInfo.cs
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.dll
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/Debug/netcoreapp3.1/LabsOOP.pdb
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/bin/Debug/netcoreapp3.1/LabsOOP
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/bin/Debug/netcoreapp3.1/LabsOOP.deps.json
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/bin/Debug/netcoreapp3.1/LabsOOP.runtimeconfig.json
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/bin/Debug/netcoreapp3.1/LabsOOP.runtimeconfig.dev.json
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/bin/Debug/netcoreapp3.1/LabsOOP.dll
+/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/bin/Debug/netcoreapp3.1/LabsOOP.pdb

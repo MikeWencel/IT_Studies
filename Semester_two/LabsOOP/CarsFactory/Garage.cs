@@ -4,7 +4,8 @@ class Garage {
     private String adress;
     private int garageCapacity;
 
-    private int carAmount = 0;
+
+
 
     private Car[] cars;
 
@@ -32,7 +33,6 @@ class Garage {
     public Garage (){
             adress = "unknown";
             garageCapacity = 0;
-            carAmount = 0;
             cars = null;
     }
 

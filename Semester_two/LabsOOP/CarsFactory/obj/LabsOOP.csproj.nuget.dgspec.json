@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj": {}
+    "/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj": {}
   },
   "projects": {
-    "/home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj": {
+    "/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj",
+        "projectUniqueName": "/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj",
         "projectName": "LabsOOP",
-        "projectPath": "/home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj",
+        "projectPath": "/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/LabsOOP.csproj",
         "packagesPath": "/home/mikewencel/.nuget/packages/",
-        "outputPath": "/home/mikewencel/Documents/GitHub/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/",
+        "outputPath": "/home/mikewencel/Documents/IT_Studies/Semester_two/LabsOOP/CarsFactory/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mikewencel/.nuget/NuGet/NuGet.Config"

@@ -8,6 +8,13 @@ class Car{
     private double avgFuel;
     private static int carAmount = 0;
 
+    private string plateNumber;
+    
+    public string PlateNumber{
+    get{return plateNumber;}
+    set{plateNumber = value;}
+    }
+
     public string Model {
         get {
             return model;
@@ -19,10 +26,10 @@ class Car{
 
     public int Doors {
         get {
-            return Doors;
+            return doors;
         }
         set {
-            Doors = value;
+            doors = value;
         }
     }
 
@@ -70,15 +77,17 @@ public Car (){
     avgFuel = 0.0;
     carAmount++;
     
+    
 
 }
 
-public Car (string mark,string model,int doors, int capacity, double avgFuel){
+public Car (string mark,string model,int doors, int capacity, double avgFuel,string plateNumber){
     this.model = model;
     this.mark = mark;
     this.doors = doors;
     this.capacity = capacity;
     this.avgFuel = avgFuel;
+    
     carAmount++;
     
 
@@ -101,6 +110,7 @@ public void information(){
     Console.WriteLine("Ilość drzwi: " + doors);
     Console.WriteLine("Pojemność silnika " + capacity);
     Console.WriteLine("Średnie spalanie " + avgFuel);
+    Console.WriteLine("Numer rejestracyjny " + plateNumber);
    
     
 }
