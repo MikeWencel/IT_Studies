@@ -35,11 +35,19 @@ namespace LabsOOP
             Person first = new Person("Mike","Wencel","Reda",0);
             
            
-            first.addCar("GWE 12321213");
+            first.addCar("GWE 1232");
+            first.addCar("GPU 1777");
+            first.addCar("WE 1777");
+            
+            first.subCar("GPU 1777");
+
+            first.addCar("GD 1777");
+            
             
 
             first.info();
             
+            // UWAGA!! JEŚLI TRAFISZ NA MÓJ KOD, TO PRZEPRASZAM Z GÓRY, MAM NADZIEJĘ, ŻE ZROZUMIESZ DOŚĆ SZYBKO ;-)
            
            
 

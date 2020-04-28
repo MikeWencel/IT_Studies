@@ -7,7 +7,7 @@ private string lastName;
 private string adress;
 private int cars = 0;
 
-private string[] carsTable;
+private string[] carsTable = new string [3];
 
 
 
@@ -56,17 +56,30 @@ set{carsTable = value;}
 
 
 public void addCar(string plateNumber){
-    if(cars > 3){
+    if(cars >= 3){
         Console.WriteLine("You can't afford that many cars");
     }else {
+        this.carsTable[this.cars] = plateNumber;
         this.cars = cars + 1;
-        for(int i = 0;cars > i;i++){
-            string[] carsTable = {plateNumber};
-            this.carsTable = carsTable;
-        }
-
         }
     }
+
+public void subCar(string plateNumber){
+    string []temp = new string [3];
+    int j = 0;
+    for(int i = 0;i < this.carsTable.Length;i++){
+        
+        if(plateNumber != carsTable[i]){
+            temp[j] = carsTable[i];
+            j++;
+        }
+        Console.WriteLine("Temp table[" + j + "]=" + temp[j] + " CarsTable[" + i + "]" + carsTable[i]);
+        
+        
+    }
+    this.cars = cars - 1;
+    this.carsTable = temp;
+    }    
 public void info(){
     Console.WriteLine(firstName);
     Console.WriteLine(lastName);
@@ -75,6 +88,7 @@ public void info(){
     foreach(string item in carsTable){
             Console.WriteLine(item);
         }
+    
 }    
         
         
