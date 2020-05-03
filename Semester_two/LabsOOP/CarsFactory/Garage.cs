@@ -42,15 +42,22 @@ class Garage {
         
     }
 
-    public void parkTheCar(Car Mark){
+    public void parkTheCar(Car cars){
         
         this.carAmount = carAmount + 1;
         if(carAmount > garageCapacity){
             Console.WriteLine("You can't park here!");
         }else {
-            this.cars[carAmount-1] = Mark;
-            Console.WriteLine("Car Parked " + Mark);
+            this.cars[carAmount-1] = cars;
+            Console.WriteLine("Car " + cars.Mark);
             
+        }
+    }
+
+    public void GarageInfo(){
+        foreach (var item in cars)
+        {
+            Console.WriteLine(item.Mark);
         }
     }
 
