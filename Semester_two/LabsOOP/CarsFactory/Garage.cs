@@ -4,12 +4,10 @@ class Garage {
     private String adress;
     private int garageCapacity;
 
-
-
-
     private Car[] cars;
+    
 
-    private int num = 0;
+    private int carAmount = 0;
 
     public String Adress {
         get {
@@ -40,19 +38,36 @@ class Garage {
         this.adress = adress;
         this.garageCapacity = garageCapacity;
         Car [] cars = new Car[garageCapacity];
-        int num = cars.Length;
+        int carAmount = cars.Length;
         
     }
 
-    public void parkTheCar(Car cars){
-        num = num + 1;
-        if(num > garageCapacity){
+    public void parkTheCar(Car Mark){
+        
+        this.carAmount = carAmount + 1;
+        if(carAmount > garageCapacity){
             Console.WriteLine("You can't park here!");
-            num = garageCapacity;
         }else {
-            Console.WriteLine("You can park here!!");
+            this.cars[carAmount-1] = Mark;
+            Console.WriteLine("Car Parked " + Mark);
+            
         }
     }
+
+
+        public Car parkout(){
+        if(this.carAmount <= 0){
+            Console.WriteLine("It's empty");
+            return this.cars[0] = null;
+        }else {
+            this.cars[carAmount] = cars[carAmount-1];
+            return this.cars[carAmount];
+        }
+    }
+
+
+    
+
 
     
 
