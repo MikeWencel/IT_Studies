@@ -19,6 +19,7 @@ namespace LabsOOP
             // Console.WriteLine("Ilość wywołań: " + secondCar.CarAmount);
             // fourthCar.information();
             // Car.amount();
+            Car fifthCar = new Car("Ferrari","Testarossa",3,4,25.3,"WI DANGER");
             
             
             
@@ -30,7 +31,17 @@ namespace LabsOOP
 
             g1.parkTheCar(secondCar);
             g1.parkTheCar(thirdCar);
+            g1.parkTheCar(fourthCar);
             g1.GarageInfo();
+            g1.parkout();
+            g1.parkout();
+            g1.parkout();
+            g1.GarageInfo();
+            Console.WriteLine(g1.GarageCapacity);
+            g1.parkTheCar(fifthCar);
+            g1.parkTheCar(secondCar);
+            g1.GarageInfo();
+            
 
             // g1.parkTheCar(fourthCar);
             // g1.GarageInfo();
