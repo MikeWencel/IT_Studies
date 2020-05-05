@@ -1,11 +1,13 @@
+using System;
+
 namespace OOP_Inheritacne_Polymorphism_Collections
 {
     public class FlatBuilding: Building
     {
         private int residents = 0;
 
-        public FlatBuilding(string adres_,int residents_):
-        base(adres_)
+        public FlatBuilding(string adress_,int residents_):
+        base(adress_)
         {
             residents = residents_;
         }
@@ -14,5 +16,9 @@ namespace OOP_Inheritacne_Polymorphism_Collections
         get{return residents;}
         
         }
+
+        
+
+        
     }
 }

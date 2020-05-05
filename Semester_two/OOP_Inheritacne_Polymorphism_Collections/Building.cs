@@ -1,3 +1,5 @@
+using System;
+
 namespace OOP_Inheritacne_Polymorphism_Collections
 {
     public class Building
@@ -12,6 +14,8 @@ namespace OOP_Inheritacne_Polymorphism_Collections
         get{return adress;
         }
         }
-        
+        public void information(){
+            Console.WriteLine(adress);
+        }
     }
 }
