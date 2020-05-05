@@ -10,6 +10,9 @@ namespace OOP_Inheritacne_Polymorphism_Collections
             Console.WriteLine("Adres budynku to: " + a.Adress);
             FlatBuilding building_b = new FlatBuilding("ul. Morska 32",100);
             Console.WriteLine("Budynek przy ulicy: " + building_b.Adress + " liczba mieszkańców: " + building_b.Residents);
+            building_b.information();
+            a.information();
+            
         }
     }
 }

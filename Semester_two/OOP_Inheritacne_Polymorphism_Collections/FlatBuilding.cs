@@ -17,7 +17,9 @@ namespace OOP_Inheritacne_Polymorphism_Collections
         
         }
 
-        
+        public override void information(){
+            Console.WriteLine(adress + " " + residents);
+        }
 
         
     }

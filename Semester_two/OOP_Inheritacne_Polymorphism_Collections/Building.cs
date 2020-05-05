@@ -1,7 +1,5 @@
 using System;
 
-namespace OOP_Inheritacne_Polymorphism_Collections
-{
     public class Building
     {
         protected string adress = null;
@@ -14,8 +12,8 @@ namespace OOP_Inheritacne_Polymorphism_Collections
         get{return adress;
         }
         }
-        public void information(){
+        public virtual void information(){
             Console.WriteLine(adress);
         }
+
     }
-}
