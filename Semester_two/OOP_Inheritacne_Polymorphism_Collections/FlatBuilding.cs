@@ -11,7 +11,7 @@ namespace OOP_Inheritacne_Polymorphism_Collections
         }
 
         public int Residents{
-        get{return Residents;}
+        get{return residents;}
         
         }
     }

@@ -8,8 +8,8 @@ namespace OOP_Inheritacne_Polymorphism_Collections
         {
             Building a = new Building("ul. Morska 23");
             Console.WriteLine("Adres budynku to: " + a.Adress);
-            FlatBuilding aa = new FlatBuilding("ul. Morska 32",100);
-            Console.WriteLine("Adres budynku: " + aa.Adress + " mieszkańcy: " + aa.Residents);
+            FlatBuilding building_b = new FlatBuilding("ul. Morska 32",100);
+            Console.WriteLine("Budynek przy ulicy: " + building_b.Adress + " liczba mieszkańców: " + building_b.Residents);
         }
     }
 }
