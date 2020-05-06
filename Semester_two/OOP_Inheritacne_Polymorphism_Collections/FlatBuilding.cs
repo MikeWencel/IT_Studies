@@ -21,6 +21,6 @@ namespace OOP_Inheritacne_Polymorphism_Collections
             Console.WriteLine(adress + " " + residents);
         }
 
-        
+       
     }
 }
