@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/bin/Debug/netcoreapp3.1/StudentAndSportsman
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/bin/Debug/netcoreapp3.1/StudentAndSportsman.deps.json
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/bin/Debug/netcoreapp3.1/StudentAndSportsman.runtimeconfig.json
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/bin/Debug/netcoreapp3.1/StudentAndSportsman.runtimeconfig.dev.json
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/bin/Debug/netcoreapp3.1/StudentAndSportsman.dll
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/bin/Debug/netcoreapp3.1/StudentAndSportsman.pdb
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/obj/Debug/netcoreapp3.1/StudentAndSportsman.csprojAssemblyReference.cache
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/obj/Debug/netcoreapp3.1/StudentAndSportsman.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/obj/Debug/netcoreapp3.1/StudentAndSportsman.AssemblyInfo.cs
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/obj/Debug/netcoreapp3.1/StudentAndSportsman.dll
+/home/mikewencel/Documents/IT_Studies/Semester_two/StudentAndSportsman/obj/Debug/netcoreapp3.1/StudentAndSportsman.pdb
